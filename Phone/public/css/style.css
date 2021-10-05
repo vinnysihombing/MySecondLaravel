@@ -1,0 +1,60 @@
+*{
+    /* color: white; */
+}
+
+hr.new1 {
+    border: 1px solid white;
+}
+
+html{
+    height: 100%;
+}
+
+body{
+    background-color: #1c2d40;
+    background-image: linear-gradient(to right, #1c2d40, #8a4203);
+    color: white;
+    height: 100%;
+
+}
+
+.nav-link, .navbar-brand{
+    color: white;
+    transition: 0.15s;
+}
+
+.nav-link:hover,
+.navbar-brand:hover{
+    color: rgb(179, 179, 179);
+}
+
+.welcome-web-container{
+    width: 100%;
+}
+
+.title-welcome{
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.subtitle-welcome{
+    font-size: 15px;
+}
+
+.card-header{
+    background-color: #111b27;
+    border: 0px;
+}
+
+.card-body{
+    background-color: #1c2d40;
+    border: 0px i !important;
+}
+
+.alert p{
+    color: black;
+}
+
+.table{
+    color: white;
+}
